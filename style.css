@@ -1,0 +1,18 @@
+/* add code here to make your image 300px square */
+img {
+    width: 300px;
+    }
+  /* add code here to change the color and font family of your name/title */
+  h1 {
+    color: #ae72ca;
+    background-color: #acddac;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+    
+  
+  /* Bonus: change the color of your list elements */
+  ol {
+    color: #e0b2bb;
+    
+  }
+  
